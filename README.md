@@ -1,4 +1,4 @@
-# breau-angular-seed — the seed for AngularJS apps
+# breau-angular-seed
 
 Based on angular-seed project
 
